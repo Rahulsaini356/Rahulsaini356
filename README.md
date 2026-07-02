@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul saini
-- 👀 I’m interested in ...
+
 - 🌱 I’m currently learning ...
 
 
